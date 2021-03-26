@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:main" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="470f243b-9371-4571-a60d-cd4a3861c6df" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="project" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/Flora1234567/project" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1pbwzzNVbKZp0A4jucEmfdp0xQ1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/project/dataclean_20210324" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/project/dataclean_20210324" />
+      <recent name="$PROJECT_DIR$/project" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/project" />
+      <recent name="$PROJECT_DIR$/leetcode/SUM" />
+      <recent name="$PROJECT_DIR$/leetcode" />
+      <recent name="$PROJECT_DIR$/2sum" />
+      <recent name="$PROJECT_DIR$/2sum/3sum" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.project1">
+    <configuration name="2SUM" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2sum" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2sum/2SUM.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="project1" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/project1" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.2SUM" />
+        <item itemvalue="Python.2SUM" />
+        <item itemvalue="Python.2SUM" />
+        <item itemvalue="Python.2SUM" />
+        <item itemvalue="Python.2SUM" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="470f243b-9371-4571-a60d-cd4a3861c6df" name="Default Changelist" comment="" />
+      <created>1615465363519</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1615465363519</updated>
+    </task>
+    <task id="LOCAL-00001" summary="2sum">
+      <created>1615465845920</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1615465845920</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2sum">
+      <created>1615574182575</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1615574182575</updated>
+    </task>
+    <task id="LOCAL-00003" summary="transform data">
+      <created>1615576597380</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1615576597381</updated>
+    </task>
+    <task id="LOCAL-00004" summary="3sum">
+      <created>1615953964098</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1615953964098</updated>
+    </task>
+    <task id="LOCAL-00005" summary="project_clean1">
+      <created>1615987152675</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1615987152675</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Revert &quot;project_clean1&quot;">
+      <created>1616193528314</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1616193528315</updated>
+    </task>
+    <task id="LOCAL-00007" summary="clean data">
+      <created>1616193607379</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1616193607379</updated>
+    </task>
+    <task id="LOCAL-00008" summary="clean data">
+      <created>1616195457228</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1616195457228</updated>
+    </task>
+    <task id="LOCAL-00009" summary="3sum">
+      <created>1616195749650</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1616195749650</updated>
+    </task>
+    <task id="LOCAL-00010" summary="2sum">
+      <created>1616195763329</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1616195763329</updated>
+    </task>
+    <task id="LOCAL-00011" summary="clean data">
+      <created>1616196321563</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1616196321563</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Revert &quot;Initial commit&quot;&#10;&#10;This reverts commit 83d47ff5">
+      <created>1616197146903</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1616197146903</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Revert &quot;Initial commit&quot;&#10;&#10;This reverts commit 83d47ff5">
+      <created>1616197233083</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1616197233083</updated>
+    </task>
+    <task id="LOCAL-00014" summary="delete unnecessary files">
+      <created>1616228105856</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1616228105856</updated>
+    </task>
+    <task id="LOCAL-00015" summary="delete unnecessary files">
+      <created>1616317927983</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1616317927983</updated>
+    </task>
+    <task id="LOCAL-00016" summary="data_clean2">
+      <created>1616547101486</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1616547101486</updated>
+    </task>
+    <task id="LOCAL-00017" summary="merge two sort list">
+      <created>1616574190590</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1616574190590</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="transform data" />
+    <MESSAGE value="project_clean1" />
+    <MESSAGE value="Revert &quot;project_clean1&quot;" />
+    <MESSAGE value="3sum" />
+    <MESSAGE value="2sum" />
+    <MESSAGE value="clean data" />
+    <MESSAGE value="Revert &quot;Initial commit&quot;&#10;&#10;This reverts commit 83d47ff5" />
+    <MESSAGE value="delete unnecessary files" />
+    <MESSAGE value="data_clean2" />
+    <MESSAGE value="merge two sort list" />
+    <option name="LAST_COMMIT_MESSAGE" value="merge two sort list" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="449" y="281" key="#Notifications" timestamp="1616228808626">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="449" y="281" key="#Notifications/0.0.1440.900@0.0.1440.900" timestamp="1616228808626" />
+    <state x="184" y="127" width="1071" height="725" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1615627183644">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1615540896599" />
+    <state x="184" y="127" width="1071" height="700" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.831@0.23.1440.831" timestamp="1615627183644" />
+    <state x="184" y="127" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.832@0.23.1440.832" timestamp="1615589940675" />
+    <state x="184" y="127" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.833@0.23.1440.833" timestamp="1615590569326" />
+    <state x="184" y="127" width="1071" height="725" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.834@0.23.1440.834" timestamp="1615621457693" />
+    <state x="137" y="212" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1616192297177">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="137" y="212" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1616192297177" />
+    <state x="137" y="218" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.827@0.23.1440.827" timestamp="1615576542925" />
+    <state x="332" y="23" width="775" height="821" key="CommitChangelistDialog2" timestamp="1616574190402">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="332" y="23" width="775" height="821" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1616574190402" />
+    <state x="332" y="44" key="CommitChangelistDialog2/0.23.1440.822@0.23.1440.822" timestamp="1616317927817" />
+    <state x="332" y="31" key="CommitChangelistDialog2/0.23.1440.827@0.23.1440.827" timestamp="1615576597234" />
+    <state x="332" y="44" key="CommitChangelistDialog2/0.23.1440.830@0.23.1440.830" timestamp="1615574182321" />
+    <state x="100" y="0" width="1240" height="900" key="DiffContextDialog" timestamp="1616197255514">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="100" y="0" width="1240" height="900" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1616197255514" />
+    <state x="100" y="0" width="1240" height="900" key="DiffContextDialog/0.23.1440.825@0.23.1440.825" timestamp="1616197000134" />
+    <state x="100" y="84" width="1240" height="763" key="DiffContextDialog/0.23.1440.826@0.23.1440.826" timestamp="1616188604972" />
+    <state x="508" y="198" key="FileChooserDialogImpl" timestamp="1615628322269">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="508" y="198" key="FileChooserDialogImpl/0.23.1440.831@0.23.1440.831" timestamp="1615628322269" />
+    <state x="508" y="198" key="FileChooserDialogImpl/0.23.1440.834@0.23.1440.834" timestamp="1615621762431" />
+    <state width="1419" height="214" key="GridCell.Tab.0.bottom" timestamp="1615953370410">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1419" height="214" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1615903022978" />
+    <state width="1419" height="214" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1615588478678" />
+    <state width="1419" height="214" key="GridCell.Tab.0.bottom/0.23.1440.830@0.23.1440.830" timestamp="1615680031359" />
+    <state width="1419" height="214" key="GridCell.Tab.0.bottom/0.23.1440.831@0.23.1440.831" timestamp="1615953370410" />
+    <state width="1419" height="214" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1615573714686" />
+    <state width="1419" height="214" key="GridCell.Tab.0.center" timestamp="1615953370409">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1419" height="214" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1615903022976" />
+    <state width="1419" height="214" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1615588478677" />
+    <state width="1419" height="214" key="GridCell.Tab.0.center/0.23.1440.830@0.23.1440.830" timestamp="1615680031358" />
+    <state width="1419" height="214" key="GridCell.Tab.0.center/0.23.1440.831@0.23.1440.831" timestamp="1615953370409" />
+    <state width="1419" height="214" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1615573714669" />
+    <state width="1419" height="214" key="GridCell.Tab.0.left" timestamp="1615953370408">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1419" height="214" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1615903022975" />
+    <state width="1419" height="214" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1615588478677" />
+    <state width="1419" height="214" key="GridCell.Tab.0.left/0.23.1440.830@0.23.1440.830" timestamp="1615680031357" />
+    <state width="1419" height="214" key="GridCell.Tab.0.left/0.23.1440.831@0.23.1440.831" timestamp="1615953370408" />
+    <state width="1419" height="214" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1615573714668" />
+    <state width="1419" height="214" key="GridCell.Tab.0.right" timestamp="1615953370409">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state width="1419" height="214" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1615903022977" />
+    <state width="1419" height="214" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1615588478678" />
+    <state width="1419" height="214" key="GridCell.Tab.0.right/0.23.1440.830@0.23.1440.830" timestamp="1615680031359" />
+    <state width="1419" height="214" key="GridCell.Tab.0.right/0.23.1440.831@0.23.1440.831" timestamp="1615953370409" />
+    <state width="1419" height="214" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1615573714685" />
+    <state x="474" y="177" key="RollbackChangesDialog" timestamp="1616193572523">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="474" y="177" key="RollbackChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1616193572523" />
+    <state x="229" y="75" key="SettingsEditor" timestamp="1615628341034">
+      <screen x="0" y="23" width="1440" height="831" />
+    </state>
+    <state x="229" y="75" key="SettingsEditor/0.23.1440.831@0.23.1440.831" timestamp="1615628341034" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1616574202574">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1616574202574" />
+    <state x="320" y="197" key="Vcs.Push.Dialog.v2/0.23.1440.822@0.23.1440.822" timestamp="1616317938831" />
+    <state x="320" y="197" key="Vcs.Push.Dialog.v2/0.23.1440.827@0.23.1440.827" timestamp="1615576613436" />
+    <state x="320" y="198" key="Vcs.Push.Dialog.v2/0.23.1440.830@0.23.1440.830" timestamp="1615574297774" />
+    <state x="556" y="191" key="VcsDiffUtil.ChangesDialog" timestamp="1616228208194">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="556" y="191" key="VcsDiffUtil.ChangesDialog/0.0.1440.900@0.0.1440.900" timestamp="1616228208194" />
+    <state x="427" y="82" width="586" height="735" key="find.popup" timestamp="1616228905987">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="427" y="82" width="586" height="735" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1616228905987" />
+    <state x="489" y="142" key="git4idea.branch.GitSmartOperationDialog" timestamp="1616185618336">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="489" y="142" key="git4idea.branch.GitSmartOperationDialog/0.0.1440.900@0.0.1440.900" timestamp="1616185618336" />
+    <state x="489" y="154" key="git4idea.branch.GitSmartOperationDialog/0.23.1440.831@0.23.1440.831" timestamp="1615953338196" />
+    <state x="450" y="369" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1616192595783">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="450" y="369" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1440.900@0.0.1440.900" timestamp="1616192595783" />
+  </component>
+</project>
