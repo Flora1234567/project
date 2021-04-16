@@ -1,6 +1,6 @@
 # Job Analysis/visualization
 
-The COVID Tracking Project collects and publishes the most complete testing data available for US states and territories. It has been cited in and used by major media companies and agencies.
+
 Recently, the large number of student will graduate from the university. This repository will contain the dataset [admin_csv_gil  ],[111][1111] for recuitment information.
 
 contain code [csv_file]
