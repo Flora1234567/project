@@ -11,7 +11,7 @@ For these different kinds of field job, each column contain job_role, website_li
 
 * [NZ_Admin_JOBS.csv](https://github.com/Flora1234567/project/blob/project/project/project_dataset/NZ_Admin_JOBS.csv) - administrative field job
 * [NZ_Banking_JOBS.csv](https://github.com/Flora1234567/project/blob/project/project/project_dataset/NZ_Banking_JOBS.csv) - bank field job
-* [NZ_TRADE_SERVICES_JOBS](https://github.com/Flora1234567/project/blob/project/project/project_dataset/NZ_TRADE_SERVICES_JOBS.csv) - trade service field job
+* [NZ_TRADE_SERVICES_JOBS.csv](https://github.com/Flora1234567/project/blob/project/project/project_dataset/NZ_TRADE_SERVICES_JOBS.csv) - trade service field job
 
 
 
