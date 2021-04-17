@@ -1,13 +1,15 @@
 # Job Analysis/visualization
 
 
-Recently, the large number of student will graduate from the university. This repository will contain the dataset [NZ_Admin_JOBS.csv](https://github.com/Flora1234567/project/blob/project/project/project_dataset/NZ_Admin_JOBS.csv),[111][1111] for recuitment information.
+Recently, a large number of students will graduate from the university. This repository will contain the dataset for administrative, trade, and bank fields used to analyze recruitment information.
 
-contain code [csv_file]
-cleaning dirty data for recruitment information and data visualiztion to see the location field for administrative, trade and bank field, classification share in different field, top5 hottest job in the different field, mean salary distribution for different field and the relationship between post day and high salary, low salary in different field.
+Firstly, cleansing dirty data for recruitment information. Then, data visualiztion to see the location field for administrative, trade and bank field, classification share in different field, top5 hottest job in the different field, mean salary distribution for different field and the relationship between post day and high salary, low salary in different field. Finally, do a heatmap to show number of job in different location.
 
-# 
-
+# Data
+*[NZ_Admin_JOBS.csv](https://github.com/Flora1234567/project/blob/project/project/project_dataset/NZ_Admin_JOBS.csv)
+*[NZ_Banking_JOBS.csv](https://github.com/Flora1234567/project/blob/project/project/project_dataset/NZ_Banking_JOBS.csv)
+*[NZ_TRADE_SERVICES_JOBS](https://github.com/Flora1234567/project/blob/project/project/project_dataset/NZ_TRADE_SERVICES_JOBS.csv) 
+For these 
 
 snippets and data analyses that help me to understand its development. The tools needed are similar to what we typically use in ecological modelling. However, I am not an epidemiologist, so my view is very naive and everything may be wrong.
 
