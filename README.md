@@ -8,6 +8,10 @@ Firstly, cleansing dirty data for recruitment information. Data visualization wi
 # Data
 
 For these different kinds of field job, each column contain job_role, website_link, company, location, post_day, and classification.
+```
+aaa
+```
+
 
 * [NZ_Admin_JOBS.csv](https://github.com/Flora1234567/project/blob/project/project/project_dataset/NZ_Admin_JOBS.csv) - administrative field job
 * [NZ_Banking_JOBS.csv](https://github.com/Flora1234567/project/blob/project/project/project_dataset/NZ_Banking_JOBS.csv) - bank field job
