@@ -1,4 +1,4 @@
-# Job Analysis/visualization
+# Job Analysis/visualization :bar_chart:
 
 
 Recently, a large number of students will graduate from the university. This repository will contain the dataset for administrative, trade, and bank fields used to analyze recruitment information. And also have the map in NZ. 
@@ -8,10 +8,9 @@ Firstly, cleansing dirty data for recruitment information. Data visualization wi
 # Data
 
 For these different kinds of field job, each column contain job_role, website_link, company, location, post_day, and classification.
-```
-aaa
-```
 
+| job_role  | website_link | company  | location | post_day  | classification |
+| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 
 * [NZ_Admin_JOBS.csv](https://github.com/Flora1234567/project/blob/project/project/project_dataset/NZ_Admin_JOBS.csv) - administrative field job
 * [NZ_Banking_JOBS.csv](https://github.com/Flora1234567/project/blob/project/project/project_dataset/NZ_Banking_JOBS.csv) - bank field job
