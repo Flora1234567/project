@@ -1,9 +1,9 @@
 # Job Analysis/visualization
 
 
-Recently, a large number of students will graduate from the university. This repository will contain the dataset for administrative, trade, and bank fields used to analyze recruitment information.And also show the heatmap for the job count of different location.
+Recently, a large number of students will graduate from the university. This repository will contain the dataset for administrative, trade, and bank fields used to analyze recruitment information. And also have the map in NZ. 
 
-Firstly, cleansing dirty data for recruitment information. Then, data visualiztion to see the location field for administrative, trade and bank field, classification share in different field, top5 hottest job in the different field, mean salary distribution for different field and the relationship between post day and high salary, low salary in different field. Finally, visualize a heatmap to show number of job in different location.
+Firstly, cleansing dirty data for recruitment information. Data visualization will then see the location field for administrative, trade, and bank field, classification share in different fields, top5 hottest job in the different field, mean salary distribution for different fields, and the relationship between post-day and high salary, low salary in different fields. Finally, visualize a heatmap to show the number of jobs in a different location.
 
 # Data
 
