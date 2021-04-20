@@ -24,4 +24,4 @@ NZ map
 
 * [NZ heatmap](https://github.com/Flora1234567/project/blob/project/project/datavisualisation_20210412/GIS_plot.ipynb) - Job count for different locations
 
-## Contributing
+
